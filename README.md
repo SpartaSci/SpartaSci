@@ -1,4 +1,4 @@
-$$\Delta\rho = 
+$$
 \begin{bmatrix}
     \Delta\rho _ 1 \\
     \Delta\rho _ 2 \\
