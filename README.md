@@ -1,10 +1,9 @@
-[Notes](https://github.com/SpartaSci/polito)
+$$\Delta\rho = 
+\begin{bmatrix}
+    \Delta\rho _ 1 \\
+    \Delta\rho _ 2 \\
+    \Delta\rho _ 3 \\
+    \Delta\rho _ 4
+\end{bmatrix}
 
-
-$$\hat{c}_c, \hat{c}$$
-
-
-$$ \hat{x}_c, \hat{y}_u $$
-
-$$(\hat{x}_u,\hat{y}_u,\hat{z} _ u,\hat{b} _ {w} )$$
-
+$$
