@@ -1,6 +1,7 @@
 [Notes](https://github.com/SpartaSci/polito)
 
-$$\hat{c}$$
+
+$$\hat{c}_c$$
 
 
 $$ \hat{x}_u, \hat{y}_u , \hat{z}_u , \hat{b}_{ut})$$
