@@ -75,3 +75,13 @@ https://fellowship.mlh.io/
 
 https://summerofcode.withgoogle.com/
 
+# Off Topic 
+https://www.ansa.it/
+
+https://www.youtube.com/@TED
+
+https://www.bbc.com/news
+
+https://www.youtube.com/@LaStoriaSulTubo
+
+https://www.youtube.com/@AlessandroBarberoFanChannel
