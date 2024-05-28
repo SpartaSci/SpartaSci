@@ -25,6 +25,8 @@ https://www.youtube.com/@LiveOverflow security
 
 https://www.youtube.com/@LowLevelLearning lowlevel
 
+https://www.youtube.com/@CoreDumpped low level
+
 https://www.youtube.com/@_johnhammond ctf and security
 
 https://www.youtube.com/@Asianometry
@@ -34,6 +36,7 @@ https://www.youtube.com/@ConnerArdman
 https://www.youtube.com/@NetworkChuck
 
 https://www.youtube.com/@CodingWithJohn java
+
 
 # Github
 ## SOC interview
