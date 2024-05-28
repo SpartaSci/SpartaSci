@@ -32,6 +32,9 @@ https://www.youtube.com/@Asianometry
 https://www.youtube.com/@ConnerArdman 
 
 https://www.youtube.com/@NetworkChuck
+
+https://www.youtube.com/@CodingWithJohn java
+
 # Github
 ## SOC interview
 https://github.com/gracenolan/Notes
