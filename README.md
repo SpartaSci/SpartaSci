@@ -1,5 +1,4 @@
 
-
 # Podcast
 https://linuxunplugged.com/
 
@@ -14,10 +13,12 @@ https://twit.tv/shows/security-now
 
 # Blog 
 https://www.servethehome.com/
+
 https://blog.cloudflare.com/
 
 # Youtube
 https://www.youtube.com/@ThePrimeagen Vim - Rust - TypeScript
+
 https://www.youtube.com/@ThePrimeTimeagen
 
 https://www.youtube.com/@LiveOverflow security
@@ -34,9 +35,11 @@ https://www.youtube.com/@NetworkChuck
 # Github
 ## SOC interview
 https://github.com/gracenolan/Notes
+
 https://github.com/LetsDefend/SOC-Interview-Questions
 
 https://github.com/abhinavkakku/Cyber_Security_Interview_Questions
+
 https://github.com/justinltodd/security-interview-questions
 
 https://github.com/paulveillard/cybersecurity-interview-questions
@@ -48,15 +51,21 @@ https://github.com/WebBreacher/offensiveinterview
 
 # CTF 
 https://cyberchallenge.it/
+
 https://tryhackme.com/
+
 https://www.hackthebox.com/
+
 https://www.root-me.org/en/Capture-The-Flag/
+
 https://ctftime.org/event/list/
 
 https://ghw.mlh.io/
 
 # Internship
 https://lfx.linuxfoundation.org/tools/mentorship/
+
 https://fellowship.mlh.io/
+
 https://summerofcode.withgoogle.com/
 
