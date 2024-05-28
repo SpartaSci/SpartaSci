@@ -37,6 +37,10 @@ https://www.youtube.com/@NetworkChuck
 
 https://www.youtube.com/@CodingWithJohn java
 
+https://www.youtube.com/@veritasium
+
+https://www.youtube.com/@brancheducation
+
 
 # Github
 ## SOC interview
