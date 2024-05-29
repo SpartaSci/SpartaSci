@@ -1,6 +1,6 @@
 
 # Podcast
-https://linuxunplugged.com/
+https://linuxunplugged.com/ 
 
 https://www.bsdnow.tv/
 
@@ -39,10 +39,17 @@ https://www.youtube.com/@CodingWithJohn java
 
 https://www.youtube.com/@veritasium
 
-https://www.youtube.com/@brancheducation
-
+https://www.youtube.com/@brancheducation 
 
 # Github
+
+https://github.com/sindresorhus/awesome.git
+
+https://github.com/rmusser01/Infosec_Reference.git
+
+https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible.git
+
+https://github.com/carpedm20/awesome-hacking.git
 ## SOC interview
 https://github.com/gracenolan/Notes
 
@@ -55,8 +62,6 @@ https://github.com/justinltodd/security-interview-questions
 https://github.com/paulveillard/cybersecurity-interview-questions
 
 https://github.com/WebBreacher/offensiveinterview
-
-
 
 
 # CTF 
@@ -89,3 +94,10 @@ https://www.bbc.com/news
 https://www.youtube.com/@LaStoriaSulTubo
 
 https://www.youtube.com/@AlessandroBarberoFanChannel
+
+
+# Link utili
+https://mqtt.eclipseprojects.io/ mqtt broker
+
+https://sagecell.sagemath.org/ math
+
