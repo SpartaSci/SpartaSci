@@ -22,7 +22,7 @@ https://www.youtube.com/@ThePrimeagen Vim - Rust - TypeScript
 https://www.youtube.com/@ThePrimeTimeagen
 
 https://www.youtube.com/@LiveOverflow security
-
+[binary exploit](https://youtube.com/playlist?list=PLhixgUqwRTjxglIswKp9mpkfPNfHkzyeN&si=u7C0dLYWfKyczfy4)
 https://www.youtube.com/@LowLevelLearning lowlevel
 
 https://www.youtube.com/@CoreDumpped low level
