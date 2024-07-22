@@ -50,6 +50,11 @@ https://github.com/rmusser01/Infosec_Reference.git
 https://github.com/CyberAlbSecOP/Awesome_CyberSec_Bible.git
 
 https://github.com/carpedm20/awesome-hacking.git
+
+https://github.com/codecrafters-io/build-your-own-x.git
+
+https://github.com/practical-tutorials/project-based-learning.git
+
 ## SOC interview
 https://github.com/gracenolan/Notes
 
@@ -97,6 +102,8 @@ https://www.youtube.com/@AlessandroBarberoFanChannel
 
 
 # Link utili
+https://roadmap.sh/
+
 https://mqtt.eclipseprojects.io/ mqtt broker
 
 https://sagecell.sagemath.org/ math
