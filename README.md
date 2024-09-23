@@ -16,6 +16,8 @@ https://www.servethehome.com/
 
 https://blog.cloudflare.com/
 
+https://thedfirreport.com/
+
 # Youtube
 https://www.youtube.com/@ThePrimeagen Vim - Rust - TypeScript
 
