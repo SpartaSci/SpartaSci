@@ -1,3 +1,4 @@
+These are some of my favorite sources of information and training.
 
 # Podcast
 https://linuxunplugged.com/ 
